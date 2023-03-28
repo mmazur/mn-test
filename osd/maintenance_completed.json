@@ -3,5 +3,6 @@
     "service_name": "SREManualAction",
     "summary": "${DATE} Cluster maintenance successfully completed",
     "description": "${DATE} cluster maintenance is now successfully completed. Your cluster services are now fully back online.",
+    "_tags": ["t_network", "t_config", "t_tag1"],
     "internal_only": false
 }
