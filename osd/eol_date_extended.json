@@ -3,5 +3,6 @@
     "service_name": "SREManualAction",
     "summary": "Product end-of-life date extended",
     "description": "The end-of-life cycle date for ${PRODUCT} is being extended to ${EOLDATE}. Please refer to our life cycle policy document for further information: ${DOCUMENTATION}.",
-    "internal_only": false
+    "internal_only": false,
+    "_tags": ["t_network", "t_config", "t_tag1"]
 }
